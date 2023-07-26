@@ -2,8 +2,8 @@ RENCANA KONTEN WPU
 
 -Javascript
    * ES6
-   * Framework Javascript 
-   ^ Vue
+   * Framework Javascript
+  ^ Vue
   ^ Reach
 - Struktur Data Dasar
 - PHP Framework
